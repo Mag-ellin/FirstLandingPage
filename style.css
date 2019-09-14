@@ -1,0 +1,79 @@
+body { 
+background-color: #EFD9CE;
+background-image: url(https://images.unsplash.com/photo-1479981280584-037818c1297d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+background-repeat: no-repeat;
+background-size: cover;
+color: #EFD9CE; 
+font-family: 'Heebo', sans-serif;
+}	
+
+#banner {
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px white;
+}
+
+h1 {
+	font-family: 'Heebo', sans-serif;
+	text-align: center;
+  color: white;
+  font-size: 50px;
+
+}
+
+ #Heart { width: 40px }
+
+ .section {
+
+  text-align: center;
+  align-items: center;
+  color: black;
+  text-shadow: 1px 1px 5px black;
+
+ }
+
+ .container 
+ {margin: 0px;
+ 	padding: 0px}
+
+ p { 
+
+font-family: 'Heebo', sans-serif;
+
+  }
+
+
+h1 { 
+font-weight: 600;
+color: #4A5899; 
+font-family: 'Heebo', sans-serif;
+
+ }
+
+ h2 {
+font-size: 35px; 
+color: #C1B2AB;
+
+ }
+
+ a: hover  { 
+ 	color: blue;
+ 	font-size: 100px;
+  }
+
+footer { 
+  	background-color: rgb(50, 50, 50);
+  	text-align: center;
+}
+ 
+#footer a:hover {
+  color: white; 
+}
+
+#footer p {
+   	border: none;
+   
+}
